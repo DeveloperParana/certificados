@@ -10,7 +10,7 @@ Repositório de certificados de participação dos eventos do DevParaná
 
 ## Instruções
 
-O nome do arquivo de certificado, é composto pela hash md5 do email do titular mais a extensão do formato PDF.
+O nome do arquivo de certificado, é composto pela hash md5 do email do titular mais a extensão do formato PDF, você pode utilizar [esse site](http://www.md5.cz/) para gerar o MD5.
 
 > EX:
 > nome@dominio.com = ccc3541be73e34c5de05a620f004b89d.pdf
