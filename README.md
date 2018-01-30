@@ -7,6 +7,12 @@ Repositório de certificados de participação dos eventos do DevParaná
 ### 2017
 
 - [DevParaná Conference](https://github.com/DeveloperParana/certificados/tree/master/2017/conference)
+- [Conectadas](https://github.com/DeveloperParana/certificados/tree/master/2017/conectadas)
+- [Xamarin Dev Days](https://github.com/DeveloperParana/certificados/tree/master/2017/xamarin)
+
+## Acesso Direto
+
+Entre pelo site [https://certificados.devparana.org/](https://certificados.devparana.org/).
 
 ## Instruções
 
